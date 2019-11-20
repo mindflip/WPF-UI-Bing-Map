@@ -9,3 +9,12 @@ WPF UI Design - Bing Map
 2. Bing Maps WPF Control SDK [Click Here](https://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=27165)
 3. Bing Map Credentials [Click Here](https://www.bingmapsportal.com/)
 
+----
+
+Install Material Themes, and Bing Maps WPF Control SDK
+
+After installing SDK, Add Reference 'Map DLL' to Project
+
+Structuring xaml componenets
+
+Activate the map using 'Key'

@@ -34,7 +34,7 @@
                             <StackPanel Height="50">
                                 <TextBlock Text="경북대학교 본관"/>
                                 <StackPanel Orientation="Horizontal">
-                                    <TextBlock Text="4,5" Foreground="#DDFF6F0B" Margin="1" FontSize="10"/>
+                                    <TextBlock Text="3,5" Foreground="#DDFF6F0B" Margin="1" FontSize="10"/>
                                     <materialDesign:PackIcon Kind="Star" Foreground="#DDFF6F0B" Margin="1" VerticalAlignment="Center" Width="12" Height="12"/>
                                     <materialDesign:PackIcon Kind="Star" Foreground="#DDFF6F0B" Margin="1" VerticalAlignment="Center" Width="12" Height="12"/>
                                     <materialDesign:PackIcon Kind="Star" Foreground="#DDFF6F0B" Margin="1" VerticalAlignment="Center" Width="12" Height="12"/>
@@ -53,7 +53,7 @@
                             <StackPanel Height="50">
                                 <TextBlock Text="일청담"/>
                                 <StackPanel Orientation="Horizontal">
-                                    <TextBlock Text="3,5" Foreground="#DDFF6F0B" Margin="1" FontSize="10"/>
+                                    <TextBlock Text="4" Foreground="#DDFF6F0B" Margin="1" FontSize="10"/>
                                     <materialDesign:PackIcon Kind="Star" Foreground="#DDFF6F0B" Margin="1" VerticalAlignment="Center" Width="12" Height="12"/>
                                     <materialDesign:PackIcon Kind="Star" Foreground="#DDFF6F0B" Margin="1" VerticalAlignment="Center" Width="12" Height="12"/>
                                     <materialDesign:PackIcon Kind="Star" Foreground="#DDFF6F0B" Margin="1" VerticalAlignment="Center" Width="12" Height="12"/>

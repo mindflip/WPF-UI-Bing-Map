@@ -28,7 +28,7 @@ namespace WPFNuget00
 
         private void Button_Exit(object sender, RoutedEventArgs e)
         {
-            System.Windows.Application.Current.Shutdown();
+            Environment.Exit(0);
         }
     }
 }
