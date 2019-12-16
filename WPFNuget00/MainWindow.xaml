@@ -75,7 +75,7 @@
         </Button>
 
         <m:Map Mode="Road" Grid.Column="1" Grid.Row="1" ZoomLevel="16" Center="35.889834, 128.611403"
-               CredentialsProvider="">
+               CredentialsProvider="AoJEqI04C_IomNWfkkmsc-HcwbZScDOfqAqcsS1HCjvSLRWe0teTc3wy85i1YhEF">
             <Canvas
                 m:MapLayer.Position="35.889834, 128.611403"
                 m:MapLayer.PositionOrigin="BottomCenter" Width="30" Height="30"

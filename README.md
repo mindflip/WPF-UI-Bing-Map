@@ -20,5 +20,5 @@ Structuring xaml componenets
 Activate the map using 'Key'
 
 ----
-**ref**
+**ref**  
 [Bing Maps WPF Control](https://docs.microsoft.com/en-us/previous-versions/bing/wpf-control/hh750210(v=msdn.10))
